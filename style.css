@@ -1,0 +1,23 @@
+#meme-image-container {
+  margin: 20px;
+  bottom: 0;
+  display: flex;
+  height: 300px;
+  width: fit-content;
+  background-color: white;
+  border: 1px solid black;
+}
+
+#meme-image {
+  z-index: 0;
+}
+
+#meme-text {
+  z-index: 1;
+  align-self: flex-end;
+  font-size: 30px;
+  position: absolute;
+  width: 300px;
+  color: white;
+  text-shadow: 5px 5px 5px black;
+}
