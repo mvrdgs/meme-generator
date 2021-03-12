@@ -8,6 +8,18 @@
   border: 1px solid black;
 }
 
+#earth {
+  background-color: rgb(0, 128, 0)
+}
+
+#water {
+  background-color: rgb(0, 0, 255);
+}
+
+#fire {
+  background-color: rgb(255, 0, 0);
+}
+
 #meme-image {
   z-index: 0;
 }
