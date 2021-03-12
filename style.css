@@ -22,6 +22,16 @@
 
 #meme-image {
   z-index: 0;
+  object-fit: cover;
+}
+
+#prefixed-memes img {
+  height: 100px;
+  width: 150px;
+}
+
+#buttons {
+  margin: 10px;
 }
 
 #meme-text {
