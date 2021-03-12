@@ -9,15 +9,15 @@
 }
 
 #earth {
-  background-color: rgb(0, 128, 0)
+  background-color: green;
 }
 
 #water {
-  background-color: rgb(0, 0, 255);
+  background-color: blue;
 }
 
 #fire {
-  background-color: rgb(255, 0, 0);
+  background-color: red;
 }
 
 #meme-image {
